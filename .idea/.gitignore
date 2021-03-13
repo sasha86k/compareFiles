@@ -1,3 +1,6 @@
 # Default ignored files
+/venv/
+/main/
+/new/
 /shelf/
 /workspace.xml
